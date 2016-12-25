@@ -1,0 +1,8 @@
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\bin\Debug\LinkedList.exe.config
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\bin\Debug\LinkedList.exe
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\bin\Debug\LinkedList.pdb
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\bin\Debug\Array.exe
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\bin\Debug\Array.pdb
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\obj\Debug\LinkedList.exe
+C:\WORK\HomeWorks\HomeWork14\LinkedList\Homework11_LinkedList\obj\Debug\LinkedList.pdb

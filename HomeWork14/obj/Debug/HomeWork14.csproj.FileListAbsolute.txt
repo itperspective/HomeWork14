@@ -1,0 +1,16 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson14\HomeWork14\HomeWork14\bin\Debug\HomeWork14.exe.config
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\HomeWork14.exe.config
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\obj\Debug\HomeWork14.csprojResolveAssemblyReference.cache
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\obj\Debug\HomeWork14.Form1.resources
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\obj\Debug\HomeWork14.Properties.Resources.resources
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\obj\Debug\HomeWork14.csproj.GenerateResource.Cache
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\HomeWork14.exe
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\HomeWork14.pdb
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\Array.exe
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\Array.pdb
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\obj\Debug\HomeWork14.exe
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\obj\Debug\HomeWork14.pdb
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\DynArray.dll
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\LinkedList.exe
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\DynArray.pdb
+c:\WORK\HomeWorks\HomeWork14\HomeWork14\bin\Debug\LinkedList.pdb

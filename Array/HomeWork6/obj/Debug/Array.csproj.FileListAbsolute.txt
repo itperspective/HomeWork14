@@ -1,0 +1,6 @@
+C:\WORK\HomeWorks\HomeWork14\Array\HomeWork6\bin\Debug\Array.exe.config
+C:\WORK\HomeWorks\HomeWork14\Array\HomeWork6\bin\Debug\Array.exe
+C:\WORK\HomeWorks\HomeWork14\Array\HomeWork6\bin\Debug\Array.pdb
+C:\WORK\HomeWorks\HomeWork14\Array\HomeWork6\obj\Debug\Array.exe
+C:\WORK\HomeWorks\HomeWork14\Array\HomeWork6\obj\Debug\Array.pdb
+C:\WORK\HomeWorks\HomeWork14\Array\HomeWork6\obj\Debug\Array.csprojResolveAssemblyReference.cache

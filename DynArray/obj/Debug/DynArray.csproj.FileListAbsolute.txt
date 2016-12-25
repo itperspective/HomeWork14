@@ -1,0 +1,7 @@
+C:\WORK\HomeWorks\HomeWork14\DynArray\obj\Debug\DynArray.csprojResolveAssemblyReference.cache
+C:\WORK\HomeWorks\HomeWork14\DynArray\bin\Debug\DynArray.dll
+C:\WORK\HomeWorks\HomeWork14\DynArray\bin\Debug\DynArray.pdb
+C:\WORK\HomeWorks\HomeWork14\DynArray\bin\Debug\Array.exe
+C:\WORK\HomeWorks\HomeWork14\DynArray\bin\Debug\Array.pdb
+C:\WORK\HomeWorks\HomeWork14\DynArray\obj\Debug\DynArray.dll
+C:\WORK\HomeWorks\HomeWork14\DynArray\obj\Debug\DynArray.pdb
